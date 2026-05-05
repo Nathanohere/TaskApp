@@ -7,11 +7,11 @@ A simple task manager to practice Docker with Node.js and MongoDB.
 ```
 taskapp/
 ├── src/
-│   └── server.js        # Express API + Mongoose models
+│   └── server.js        
 ├── public/
-│   └── index.html       # Frontend UI (vanilla JS)
-├── Dockerfile           # Node app container
-├── docker-compose.yml   # Wires Node app + MongoDB
+│   └── index.html       
+├── Dockerfile           
+├── docker-compose.yml   
 ├── .dockerignore
 └── package.json
 ```
