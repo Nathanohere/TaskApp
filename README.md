@@ -1,4 +1,4 @@
-# TaskApp — Node.js + MongoDB + Docker
+# TaskApp
 
 A simple task manager to practice Docker with Node.js and MongoDB.
 
